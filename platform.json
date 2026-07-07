@@ -180,6 +180,12 @@
       "owner": "platformio",
       "version": "~1.0.6"
     },
+    "framework-cmsis-stm32wl": {
+      "type": "framework",
+      "optional": true,
+      "owner": "platformio",
+      "version": "~1.4.0"
+    },
     "framework-spl": {
       "type": "framework",
       "optional": true,
