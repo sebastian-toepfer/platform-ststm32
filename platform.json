@@ -102,6 +102,12 @@
       "owner": "platformio",
       "version": "~1.16.2"
     },
+    "framework-cmsis-stm32c0": {
+      "type": "framework",
+      "optional": true,
+      "owner": "sebastian_toepfer",
+      "version": "~0.141.0"
+    },
     "framework-cmsis-stm32f0": {
       "type": "framework",
       "optional": true,
