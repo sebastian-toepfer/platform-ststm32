@@ -8,7 +8,7 @@
       "arduino": "-DUSE_CM4_STARTUP_FILE"
     },
     "mcu": "stm32wl55jc",
-    "product_line": "STM32WL55xx",
+    "product_line": "STM32WL55xx_CM4",
     "variant": "STM32WLxx/WL54JCI_WL55JCI_WLE4J(8-B-C)I_WLE5J(8-B-C)I"
   },
   "debug": {
