@@ -370,8 +370,8 @@
     },
     "tool-ldscripts-ststm32": {
       "optional": true,
-      "owner": "platformio",
-      "version": "~0.2.0"
+      "owner": "sebastian_toepfer",
+      "version": "~0.3.0"
     }
   }
 }
